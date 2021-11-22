@@ -8,7 +8,10 @@
 [[3] 포인터와 배열 - 1](https://www.youtube.com/watch?v=ce37lzsbUgQ)<br>
 [[4] 포인터와 배열 실습 - 1](https://www.youtube.com/watch?v=2FyplQq4EPI)<br>
 [[5] 포인터와 배열 실습 - 2](https://www.youtube.com/watch?v=wHgh_HftTFI)<br>
+[[6] 구조체와 포인터 - 1](https://www.youtube.com/watch?v=hcegXffCTaQ)<br>
+[[7] 구조체와 포인터 - 2](https://www.youtube.com/watch?v=0V-xMTve4JM)<br>
 
 ## 📄 블로그 정리
 [[C] 포인터 [박은종 쌤의 포인터 강의 (1 ~ 2)]](https://valuelog.tistory.com/112)<br>
-[[C] 포인터와 배열 및 실습 [박은종 쌤의 포인터 강의(3 ~ 5)]](https://valuelog.tistory.com/114)
+[[C] 포인터와 배열 및 실습 [박은종 쌤의 포인터 강의(3 ~ 5)]](https://valuelog.tistory.com/114)<br>
+[[C] 구조체와 포인터 [박은종 쌤의 포인터 강의(6 ~ 7)]](https://valuelog.tistory.com/116)
